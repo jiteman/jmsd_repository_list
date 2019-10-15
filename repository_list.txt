@@ -1,1 +1,8 @@
 https://github.com/jiteman/jmsd_repository_list.git
+https://github.com/jiteman/bin_bash_scripts.git
+https://github.com/jiteman/_jmsd_documents_and_support.git
+
+https://github.com/jiteman/_jmsd_foreign_origins.git
+https://github.com/jiteman/_jmsd_foreign_sources.git
+https://github.com/jiteman/jitemania_solutions
+

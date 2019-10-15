@@ -1,0 +1,6 @@
+https://github.com/jiteman/_jmsd_foreign_components.git
+
+temporary links:
+	https://github.com/jiteman/jmsd_tpc_component.git
+	https://github.com/jiteman/jmsd_tps_component.git
+
